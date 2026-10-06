@@ -1,12 +1,12 @@
 # Enkhireedui
 
-Вэб хөгжүүлэгч. Sain Motors-ын автомашины брэндүүдийн вэбсайтуудыг дизайнаас нь эхлээд өгөгдлийн сан, deploy хүртэл хийж байна.
+Web developer working with TypeScript, React and Next.js. I build responsive websites with attention to content, request handling and maintainability.
 
-## Төслүүд
+## Projects
 
-- [jetour-sain](https://github.com/enkhireedui4-cpu/jetour-sain). JETOUR Mongolia-гийн албан ёсны вэбсайт: загварын хуудас, хүсэлтийн маягт, админ самбар. Next.js 16, Prisma, PostgreSQL (Neon).
-- [chery](https://github.com/enkhireedui4-cpu/chery). CHERY Mongolia-гийн вэбсайт, монгол ба англи хэлээр. Next.js 15, next-intl, Supabase.
+- **[JETOUR Mongolia](https://github.com/enkhireedui4-cpu/jetour-sain)** — vehicle catalogue, customer request forms and an admin area. Next.js, Prisma and PostgreSQL.
+- **[CHERY Mongolia](https://github.com/enkhireedui4-cpu/chery)** — bilingual automotive website with responsive imagery and enquiry forms. Next.js, next-intl and Supabase.
 
-## Технологи
+## Tools
 
-TypeScript, React, Next.js, Tailwind CSS, Prisma, PostgreSQL, Supabase, Vercel.
+TypeScript · React · Next.js · Tailwind CSS · Prisma · PostgreSQL · Supabase · GitHub Actions
